@@ -1,0 +1,11 @@
+user
+test
+root
+oracle
+mysql
+info
+guest
+ftp
+administrator
+admin
+adm
