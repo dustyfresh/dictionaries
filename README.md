@@ -15,3 +15,4 @@ Following dictionaries in this repository:
 * zipcodes.txt - list of Postal codes in the United States
 * fuzzing-strings.txt - strings used for fuzzing
 * us_cities.txt - list of cities in the United States
+* web-fuzz-dict.txt - modern file list for enumerating files on a webserver. Makes a great [dirsearch](https://github.com/evilsocket/dirsearch) list
